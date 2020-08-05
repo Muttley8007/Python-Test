@@ -9,3 +9,4 @@ def greet(who_to_greet):
 
 print(greet('Michael'))
 print(greet('Master'))
+print(greet('someone'))
